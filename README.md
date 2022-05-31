@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vijay-159
-- 👀 I’m interested in Automation
+- 👀 I’m interested in Automation & Robotics
 - 🌱 I’m currently learning Ece spl(Ai&Ml) at gitam university
 - 💞️ I’m looking to collaborate on Autonomous control of drones
 - 📫 How to reach me vvasamse2@gitam.in , vijayvardhan.242212@gmail.com
